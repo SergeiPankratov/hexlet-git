@@ -1,2 +1,1 @@
-This is new content!
-still new content:)
+git is awesome!
