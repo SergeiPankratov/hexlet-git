@@ -1,3 +1,1 @@
-Hello, World!
-New line!1!
-still new line;)
+no code no pain
