@@ -1,2 +1,1 @@
-Haskell Curry
-hi
+experiment with amend
